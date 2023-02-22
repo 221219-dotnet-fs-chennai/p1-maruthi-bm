@@ -1,0 +1,76 @@
+C:\Reveature\Project1\business_logic\bin\Debug\net6.0\business_logic.deps.json
+C:\Reveature\Project1\business_logic\bin\Debug\net6.0\business_logic.runtimeconfig.json
+C:\Reveature\Project1\business_logic\bin\Debug\net6.0\business_logic.dll
+C:\Reveature\Project1\business_logic\bin\Debug\net6.0\business_logic.pdb
+C:\Reveature\Project1\business_logic\obj\Debug\net6.0\business_logic.csproj.AssemblyReference.cache
+C:\Reveature\Project1\business_logic\obj\Debug\net6.0\business_logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Reveature\Project1\business_logic\obj\Debug\net6.0\business_logic.AssemblyInfoInputs.cache
+C:\Reveature\Project1\business_logic\obj\Debug\net6.0\business_logic.AssemblyInfo.cs
+C:\Reveature\Project1\business_logic\obj\Debug\net6.0\business_logic.csproj.CoreCompileInputs.cache
+C:\Reveature\Project1\business_logic\obj\Debug\net6.0\business_logic.dll
+C:\Reveature\Project1\business_logic\obj\Debug\net6.0\refint\business_logic.dll
+C:\Reveature\Project1\business_logic\obj\Debug\net6.0\business_logic.pdb
+C:\Reveature\Project1\business_logic\obj\Debug\net6.0\business_logic.genruntimeconfig.cache
+C:\Reveature\Project1\business_logic\obj\Debug\net6.0\ref\business_logic.dll
+C:\Reveature\Project1\business_logic\bin\Debug\net6.0\entity_layer.dll
+C:\Reveature\Project1\business_logic\bin\Debug\net6.0\model.dll
+C:\Reveature\Project1\business_logic\bin\Debug\net6.0\entity_layer.pdb
+C:\Reveature\Project1\business_logic\bin\Debug\net6.0\model.pdb
+C:\Reveature\Project1\business_logic\obj\Debug\net6.0\business_logic.csproj.CopyComplete
+E:\Project1\business_logic\bin\Debug\net6.0\business_logic.deps.json
+E:\Project1\business_logic\bin\Debug\net6.0\business_logic.runtimeconfig.json
+E:\Project1\business_logic\bin\Debug\net6.0\business_logic.dll
+E:\Project1\business_logic\bin\Debug\net6.0\business_logic.pdb
+E:\Project1\business_logic\bin\Debug\net6.0\entity_layer.dll
+E:\Project1\business_logic\bin\Debug\net6.0\model.dll
+E:\Project1\business_logic\bin\Debug\net6.0\entity_layer.pdb
+E:\Project1\business_logic\bin\Debug\net6.0\model.pdb
+E:\Project1\business_logic\obj\Debug\net6.0\business_logic.csproj.AssemblyReference.cache
+E:\Project1\business_logic\obj\Debug\net6.0\business_logic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project1\business_logic\obj\Debug\net6.0\business_logic.AssemblyInfoInputs.cache
+E:\Project1\business_logic\obj\Debug\net6.0\business_logic.AssemblyInfo.cs
+E:\Project1\business_logic\obj\Debug\net6.0\business_logic.csproj.CoreCompileInputs.cache
+E:\Project1\business_logic\obj\Debug\net6.0\business_logic.csproj.CopyComplete
+E:\Project1\business_logic\obj\Debug\net6.0\business_logic.dll
+E:\Project1\business_logic\obj\Debug\net6.0\refint\business_logic.dll
+E:\Project1\business_logic\obj\Debug\net6.0\business_logic.pdb
+E:\Project1\business_logic\obj\Debug\net6.0\business_logic.genruntimeconfig.cache
+E:\Project1\business_logic\obj\Debug\net6.0\ref\business_logic.dll
+C:\revature\Project1\business_logic\obj\Debug\net6.0\business_logic.csproj.AssemblyReference.cache
+C:\revature\Project1\business_logic\obj\Debug\net6.0\business_logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\revature\Project1\business_logic\obj\Debug\net6.0\business_logic.AssemblyInfoInputs.cache
+C:\revature\Project1\business_logic\obj\Debug\net6.0\business_logic.AssemblyInfo.cs
+C:\revature\Project1\business_logic\obj\Debug\net6.0\business_logic.csproj.CoreCompileInputs.cache
+C:\revature\Project1\business_logic\obj\Debug\net6.0\business_logic.dll
+C:\revature\Project1\business_logic\obj\Debug\net6.0\refint\business_logic.dll
+C:\revature\Project1\business_logic\obj\Debug\net6.0\business_logic.pdb
+C:\revature\Project1\business_logic\bin\Debug\net6.0\business_logic.deps.json
+C:\revature\Project1\business_logic\bin\Debug\net6.0\business_logic.runtimeconfig.json
+C:\revature\Project1\business_logic\bin\Debug\net6.0\business_logic.dll
+C:\revature\Project1\business_logic\bin\Debug\net6.0\business_logic.pdb
+C:\revature\Project1\business_logic\bin\Debug\net6.0\entity_layer.dll
+C:\revature\Project1\business_logic\bin\Debug\net6.0\model.dll
+C:\revature\Project1\business_logic\bin\Debug\net6.0\entity_layer.pdb
+C:\revature\Project1\business_logic\bin\Debug\net6.0\model.pdb
+C:\revature\Project1\business_logic\obj\Debug\net6.0\business_logic.csproj.CopyComplete
+C:\revature\Project1\business_logic\obj\Debug\net6.0\business_logic.genruntimeconfig.cache
+C:\revature\Project1\business_logic\obj\Debug\net6.0\ref\business_logic.dll
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\business_logic\bin\Debug\net6.0\business_logic.deps.json
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\business_logic\bin\Debug\net6.0\business_logic.runtimeconfig.json
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\business_logic\bin\Debug\net6.0\business_logic.dll
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\business_logic\bin\Debug\net6.0\business_logic.pdb
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\business_logic\bin\Debug\net6.0\entity_layer.dll
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\business_logic\bin\Debug\net6.0\model.dll
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\business_logic\bin\Debug\net6.0\entity_layer.pdb
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\business_logic\bin\Debug\net6.0\model.pdb
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\business_logic\obj\Debug\net6.0\business_logic.csproj.AssemblyReference.cache
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\business_logic\obj\Debug\net6.0\business_logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\business_logic\obj\Debug\net6.0\business_logic.AssemblyInfoInputs.cache
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\business_logic\obj\Debug\net6.0\business_logic.AssemblyInfo.cs
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\business_logic\obj\Debug\net6.0\business_logic.csproj.CoreCompileInputs.cache
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\business_logic\obj\Debug\net6.0\business_logic.csproj.CopyComplete
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\business_logic\obj\Debug\net6.0\business_logic.dll
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\business_logic\obj\Debug\net6.0\refint\business_logic.dll
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\business_logic\obj\Debug\net6.0\business_logic.pdb
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\business_logic\obj\Debug\net6.0\business_logic.genruntimeconfig.cache
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\business_logic\obj\Debug\net6.0\ref\business_logic.dll

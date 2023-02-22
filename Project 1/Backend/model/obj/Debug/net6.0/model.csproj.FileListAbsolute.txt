@@ -1,0 +1,56 @@
+C:\Reveature\Project1\model\bin\Debug\net6.0\model.deps.json
+C:\Reveature\Project1\model\bin\Debug\net6.0\model.runtimeconfig.json
+C:\Reveature\Project1\model\bin\Debug\net6.0\model.dll
+C:\Reveature\Project1\model\bin\Debug\net6.0\model.pdb
+C:\Reveature\Project1\model\obj\Debug\net6.0\model.csproj.AssemblyReference.cache
+C:\Reveature\Project1\model\obj\Debug\net6.0\model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Reveature\Project1\model\obj\Debug\net6.0\model.AssemblyInfoInputs.cache
+C:\Reveature\Project1\model\obj\Debug\net6.0\model.AssemblyInfo.cs
+C:\Reveature\Project1\model\obj\Debug\net6.0\model.csproj.CoreCompileInputs.cache
+C:\Reveature\Project1\model\obj\Debug\net6.0\model.dll
+C:\Reveature\Project1\model\obj\Debug\net6.0\refint\model.dll
+C:\Reveature\Project1\model\obj\Debug\net6.0\model.pdb
+C:\Reveature\Project1\model\obj\Debug\net6.0\model.genruntimeconfig.cache
+C:\Reveature\Project1\model\obj\Debug\net6.0\ref\model.dll
+E:\Project1\model\bin\Debug\net6.0\model.deps.json
+E:\Project1\model\bin\Debug\net6.0\model.runtimeconfig.json
+E:\Project1\model\bin\Debug\net6.0\model.dll
+E:\Project1\model\bin\Debug\net6.0\model.pdb
+E:\Project1\model\obj\Debug\net6.0\model.csproj.AssemblyReference.cache
+E:\Project1\model\obj\Debug\net6.0\model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project1\model\obj\Debug\net6.0\model.AssemblyInfoInputs.cache
+E:\Project1\model\obj\Debug\net6.0\model.AssemblyInfo.cs
+E:\Project1\model\obj\Debug\net6.0\model.csproj.CoreCompileInputs.cache
+E:\Project1\model\obj\Debug\net6.0\model.dll
+E:\Project1\model\obj\Debug\net6.0\refint\model.dll
+E:\Project1\model\obj\Debug\net6.0\model.pdb
+E:\Project1\model\obj\Debug\net6.0\model.genruntimeconfig.cache
+E:\Project1\model\obj\Debug\net6.0\ref\model.dll
+C:\revature\Project1\model\bin\Debug\net6.0\model.deps.json
+C:\revature\Project1\model\bin\Debug\net6.0\model.runtimeconfig.json
+C:\revature\Project1\model\bin\Debug\net6.0\model.dll
+C:\revature\Project1\model\bin\Debug\net6.0\model.pdb
+C:\revature\Project1\model\obj\Debug\net6.0\model.csproj.AssemblyReference.cache
+C:\revature\Project1\model\obj\Debug\net6.0\model.GeneratedMSBuildEditorConfig.editorconfig
+C:\revature\Project1\model\obj\Debug\net6.0\model.AssemblyInfoInputs.cache
+C:\revature\Project1\model\obj\Debug\net6.0\model.AssemblyInfo.cs
+C:\revature\Project1\model\obj\Debug\net6.0\model.csproj.CoreCompileInputs.cache
+C:\revature\Project1\model\obj\Debug\net6.0\model.dll
+C:\revature\Project1\model\obj\Debug\net6.0\refint\model.dll
+C:\revature\Project1\model\obj\Debug\net6.0\model.pdb
+C:\revature\Project1\model\obj\Debug\net6.0\model.genruntimeconfig.cache
+C:\revature\Project1\model\obj\Debug\net6.0\ref\model.dll
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\model\bin\Debug\net6.0\model.deps.json
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\model\bin\Debug\net6.0\model.runtimeconfig.json
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\model\bin\Debug\net6.0\model.dll
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\model\bin\Debug\net6.0\model.pdb
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\model\obj\Debug\net6.0\model.csproj.AssemblyReference.cache
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\model\obj\Debug\net6.0\model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\model\obj\Debug\net6.0\model.AssemblyInfoInputs.cache
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\model\obj\Debug\net6.0\model.AssemblyInfo.cs
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\model\obj\Debug\net6.0\model.csproj.CoreCompileInputs.cache
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\model\obj\Debug\net6.0\model.dll
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\model\obj\Debug\net6.0\refint\model.dll
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\model\obj\Debug\net6.0\model.pdb
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\model\obj\Debug\net6.0\model.genruntimeconfig.cache
+C:\Users\Maruthi B M\OneDrive\Desktop\trainer_project1\model\obj\Debug\net6.0\ref\model.dll
